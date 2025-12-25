@@ -1,4 +1,5 @@
-# install-docker
+# install-docker.sh
+
 Script for install docker 
 
 ### Docker Installation Script 
