@@ -1,11 +1,9 @@
 # install-docker
 Script for install docker 
 
-The video explains how to use the script and shows the full installation process in real time.
+### Docker Installation Script 
 
-### Docker Installation Script for Ubuntu
-
-This script automates the installation of Docker on Ubuntu-based systems. It checks whether Docker is already installed, and if not, it installs Docker along with its required dependencies.
+This script automates the installation of Docker on Linux systems. It checks whether Docker is already installed, and if not, it installs Docker along with its required dependencies.
 Features
 
     Docker check: The script first checks if Docker is already installed on the system. If Docker is found, the script will exit without making any changes.
@@ -19,13 +17,11 @@ Features
 
 Requirements
 
-    Ubuntu 22.04 or higher
     Internet connection to download Docker packages
     Root or sudo privileges to install packages
 
 Installation Steps
 
-    Open a terminal on your Ubuntu machine.
     Copy the script into a new .sh file, for example install_docker.sh.
     Give the script execute permissions:
 
